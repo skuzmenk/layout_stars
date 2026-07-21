@@ -10,7 +10,7 @@
   background-image: url(images/star.svg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 13;
+  background-size: 13px;
 }
 
 .stars__star:last-child {
