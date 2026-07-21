@@ -2,7 +2,7 @@
   display: flex;
 }
 
-.stars__star {
+.stars__star:not(:last-child) {
   margin-right: 4px;
   width: 16px;
   height: 16px;
